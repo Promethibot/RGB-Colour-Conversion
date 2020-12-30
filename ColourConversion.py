@@ -19,9 +19,9 @@ def converter():
         except ValueError:
             print("That's not a number! Please try again.")
             g1 = float(input("What is the G value? "))
-            try:
+        try:
                 b1 = float(input("What is the B value? "))
-            except ValueError:
+        except ValueError:
                 print("That's not a number! Please try again.")
                 b1 = float(input("What is the B value? "))
         r2 = int(round((r1 * 255), 0))
