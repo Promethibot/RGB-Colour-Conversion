@@ -1,5 +1,5 @@
 # RGB-Colour-Conversion
-Converts RGB values that are in the 0-1 scale to the 0 - 255 scale and hex. Specifically made to run through Cobalt's colors.lua file. Both files run on Python 3.6.
+Converts RGB values that are in the 0 - 1 scale to the 0 - 255 scale and hex. Specifically made to run through Cobalt's colors.lua file. Both files run on Python 3.6.
 
 The default ColourConversion.py is made to create lists off one name (e.g. You enter "metal" and each line is prepended by "metal1", "metal2", so on and so forth. ColourConversionPerCase allows you to enter each name per line.
 
