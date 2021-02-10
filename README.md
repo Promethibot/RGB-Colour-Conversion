@@ -6,4 +6,8 @@ The default ColourConversion.py is made to create lists off one name (e.g. You e
 
 !!! IMPORTANT! !!!
 
-When you are finished with your work, enter a number greater than 1 for the R value. I tend to enter "9". This will close the file it created and exit the program. I made this as a personal tool, but you are welcome to use it as well.
+ColourConversion and ColourConversionPerCase: When you are finished with your work, enter a number greater than 1 for the R value. I tend to enter "9". This will close the file it created and exit the program. I made this as a personal tool, but you are welcome to use it as well.
+
+ColourConversion255: When you are finished with your work, enter a number greater than 255 for the R value.
+
+ColourConversionAllInclusive: When you are finished with your work, enter a number greater than 1 when you are prompted for the type of input.
